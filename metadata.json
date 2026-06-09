@@ -1,0 +1,6 @@
+{
+  "name": "EduShare",
+  "description": "An interactive Android-styled study hub for students to share lecture notes, coordinate study schedules, and collaborate via courses-wide channels and group chats with smart AI classmates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
